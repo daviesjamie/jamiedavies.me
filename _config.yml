@@ -18,3 +18,24 @@ exclude:
   - Gemfile.lock
 sass:
   style: :compressed
+
+# Default layouts
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  -
+    scope:
+      path: ""
+      type: drafts
+    values:
+      layout: post
