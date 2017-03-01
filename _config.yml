@@ -1,14 +1,12 @@
 title: Jamie Davies
-author: Jamie Davies
-email: jamie@jamiedavies.me
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   A recent computer science graduate from the University of Southampton, now
   working for Netcraft
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# URL format
+baseurl: ""
+url: ""
+permalink: "/:year/:title/"
 
 # Build settings
 markdown: kramdown
@@ -18,3 +16,5 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+sass:
+  style: :compressed
