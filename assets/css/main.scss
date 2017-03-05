@@ -2,8 +2,14 @@
 ---
 @charset "utf-8";
 
-// Customise the fonts
+// Customise the font
 @import "calendas-plus";
 $font-main: "Calendas Plus", Georgia, Cambria, "Times New Roman", Times, serif;
+body {
+  // Use ligatures
+  -webkit-font-feature-settings: "liga" on;
+     -moz-font-feature-settings: "liga" on;
+          font-feature-settings: "liga" on;
+}
 
 @import "bland";
