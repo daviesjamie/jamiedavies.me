@@ -18,9 +18,11 @@ practices.
 
 When I'm not in front of a computer, you can often find me in my kitchen
 cooking, baking or eating anything that has caught the attention of my inner
-foodie. I also dabble in badminton, cycling, climbing, and video games.
-
-I play guitar and piano, and have been in one or two bands in my time.
+foodie. I also dabble in badminton, cycling, climbing, and video games. I play
+guitar and piano, and have been in
+[one](https://open.spotify.com/artist/5fRcxUmyMxK33qAMXq31dT) or
+[two](https://soundcloud.com/danbradleyuk/sets/silent-rhapsody-covers-ep) bands
+in my time.
 
 ## This site
 
