@@ -1,0 +1,39 @@
+// Use ligatures
+body {
+  -webkit-font-feature-settings: "liga" 1;
+     -moz-font-feature-settings: "liga" 1;
+      -ms-font-feature-settings: "liga" 1;
+          font-feature-settings: "liga" 1;
+}
+
+// Use lining numerals where necessary
+.lnums {
+  -webkit-font-feature-settings: "lnum" 1;
+     -moz-font-feature-settings: "lnum" 1;
+      -ms-font-feature-settings: "lnum" 1;
+          font-feature-settings: "lnum" 1;
+}
+
+.tnums {
+  -webkit-font-feature-settings: "tnum" 1;
+     -moz-font-feature-settings: "tnum" 1;
+      -ms-font-feature-settings: "tnum" 1;
+          font-feature-settings: "tnum" 1;
+}
+
+// Use superscript numbers where necessary
+.tag .count,
+sup {
+  -webkit-font-feature-settings: "sups" 1;
+     -moz-font-feature-settings: "sups" 1;
+      -ms-font-feature-settings: "sups" 1;
+          font-feature-settings: "sups" 1;
+}
+
+// Use subscript numbers where necessary
+sub {
+  -webkit-font-feature-settings: "subs" 1;
+     -moz-font-feature-settings: "subs" 1;
+      -ms-font-feature-settings: "subs" 1;
+          font-feature-settings: "subs" 1;
+}

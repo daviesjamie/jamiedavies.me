@@ -2,14 +2,12 @@
 ---
 @charset "utf-8";
 
-// Customise the font
+// Use calendas plus for bland's main font
 @import "calendas-plus";
 $font-main: "Calendas Plus", Georgia, Cambria, "Times New Roman", Times, serif;
-body {
-  // Use ligatures
-  -webkit-font-feature-settings: "liga" on;
-     -moz-font-feature-settings: "liga" on;
-          font-feature-settings: "liga" on;
-}
 
+// Import the bland theme styles
 @import "bland";
+
+// Import some extra typography styles
+@import "typography";
