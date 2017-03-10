@@ -1,0 +1,4 @@
+{% capture path %}
+{{ site.media_path }}/{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | slugify }}/{{ include.name }}
+{% endcapture %}
+{{ path | strip | relative_url }}

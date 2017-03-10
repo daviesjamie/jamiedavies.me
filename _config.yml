@@ -8,6 +8,9 @@ baseurl: ""
 url: ""
 permalink: "/:year/:title/"
 
+# Where post media is stored (images, downloads, etc)
+media_path: "/media"
+
 # Build settings
 markdown: kramdown
 theme: bland
