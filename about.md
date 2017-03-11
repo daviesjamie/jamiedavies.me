@@ -9,12 +9,11 @@ I'm a recent MEng Computer Science graduate from the [University of
 Southampton](http://www.southampton.ac.uk/), and I now work for
 [Netcraft](https://www.netcraft.com/) in the lovely city of Bath.
 
-My technical interests are quite mixed, but as a rule I enjoy making things and
-solving problems. I tend to use Perl and Python on a day-to-day basis, but I've
-made things in plenty of other languages including Javascript, Ruby, C/C++ and
-Java. I think it's important to choose the right tools for the job, but I'm
-guilty of always wanting to try out the latest trendy development tools and
-practices.
+My technical interests are quite mixed --- whilst I think it's important to
+choose the right tools for job, I'm often guilty of wanting to try out the
+latest trendy development tools and libraries. I tend to use Perl and Python on
+a day-to-day basis, but I've been known to make things in a range of languages
+including other classics such as C/C++, Java, Ruby and Javascript.
 
 When I'm not in front of a computer, you can often find me in my kitchen
 cooking, baking or eating anything that has caught the attention of my inner
