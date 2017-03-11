@@ -2,7 +2,7 @@ source "https://rubygems.org"
 ruby RUBY_VERSION
 
 gem "jekyll", "3.4.0"
-gem "bland", path: "../jekyll-bland"
+gem "jekyll-bland"
 
 group :jekyll_plugins do
    gem "jekyll-feed"

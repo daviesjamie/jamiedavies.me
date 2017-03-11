@@ -13,7 +13,7 @@ media_path: "/media"
 
 # Build settings
 markdown: kramdown
-theme: bland
+theme: jekyll-bland
 gems:
   - jekyll-feed
   - jekyll-sitemap
