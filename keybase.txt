@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/daviesjamie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jamiedavies.me
+  * I am daviesjamie (https://keybase.io/daviesjamie) on keybase.
+  * I have a public key with fingerprint C933 8A25 1749 BB5D 42DB  CA69 1A5D C04B 3D5C ACA6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010173c4065138923bdd5fc7fad12e553bebc0b1ca8ccf2306ac6b49f2b14876c4600a",
+            "fingerprint": "c9338a251749bb5d42dbca691a5dc04b3d5caca6",
+            "host": "keybase.io",
+            "key_id": "1a5dc04b3d5caca6",
+            "kid": "010173c4065138923bdd5fc7fad12e553bebc0b1ca8ccf2306ac6b49f2b14876c4600a",
+            "uid": "b5bc7ed01fc880f3f93a445e9ced6119",
+            "username": "daviesjamie"
+        },
+        "service": {
+            "hostname": "jamiedavies.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1489340472,
+    "expire_in": 157680000,
+    "prev": "0569d0271ee3f39ec1825e2bea57efc5febca735b8b1fa8bf7bddfb7d2bb4901",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.64
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbSBVBGD7Hyhuc8rxUVHRZu0FednZ39nKggsRELEKOUGB5mpmdtfWy
+ezq755SVReGD0tWgeoqo6GolPYRJImbZ9cEwpehq+iCiRRRdoWzW6q3H5mWY//++
+7//+j7kdmOBL97dqs+aNJZ8t8j+8eTzuW9dVr27nsK3XcKHtXCUdv2iVTh03Umnq
+XIjjAQ8UkUi8DIGoaoKIdR0aRDGQDgQKoYgpJjwGBKmEGILIy4jIWNIMAQNJVWQi
+yTyPuCzOMK1yGovGTMtlskQTRRUJECiShjHUJUHHBMkaQFAnvIRFHRLECoy4yXY8
+BjOHkUNzTJvV2CMybu8f+P/sOz4uhyEmCtV5YBBV5Q3R0EQkSZBqhOoyAJoHdGjM
+QtWUoXWUMKlTgapNytVmcayRMAn1svWW+QMab/9G5rBCFheN2a5N7CrW2+S6USfk
+cd2aqAfeQnHkj0wEm5bOwmSMBI05pm1xIcCQxDU9XeZeEyVeUoQsjm6NmjEaMT0E
+VGSVZ8ebQxNeQlDWdF5QAKWiIWqUAFWAVMAUQYUaBBosIKSIEKsYGEjFhsIiNLCi
+C5jlxAPOW2yzZXsjmU9UzjQds9xCbjzG1u7sWD/R50/3JU9K8n6ZLz0t4+/fu3Q9
+5efyFdlL1Plv9tNdlRvHMrsqdhwND5csyZxe++SUUDe2d7Av/+6FwLbsZU9D+eE9
+z65XP16MP5V8+3igkM8oCJ54XTu//1ZT+cy1qxpKS/LLHpTlP77I20OFdmqw5Lu2
+7/SM91Wfr2zoqEjs7nEWot7Gprz+2cXt8ExqWUXtmuX3O/f1Dt47F395bSr4knt5
+7aLW5v62aHggmHKo9Zg/N2m4G3bbqx+1FBbfntZzAJwf+/puaWlB1+pVLwKX/DnS
+SFNDY3jKnLyunKKrS9N+BNuST8LRgdHkuj50A+18K2S0EISarbNH2udeuzP0xig6
+ODnwZeSD8eOyenjhgov1z8+9Wtn6CwvWRgc=
+=ICQ3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/daviesjamie
+
+==================================================================
+
