@@ -36,7 +36,7 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-bland (1.0.0)
+    jekyll-bland (1.0.1)
       jekyll (~> 3.4)
     jekyll-feed (0.9.1)
       jekyll (~> 3.3)
