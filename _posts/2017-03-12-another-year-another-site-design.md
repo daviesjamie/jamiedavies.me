@@ -1,5 +1,5 @@
 ---
-title: Another year, another site redesign
+title: Another Year, Another Site Design
 date: 2017-03-12
 tags: jekyll meta
 ---
