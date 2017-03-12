@@ -23,6 +23,10 @@ guitar and piano, and have been in
 [two](https://soundcloud.com/danbradleyuk/sets/silent-rhapsody-covers-ep) bands
 in my time.
 
+## Get in touch
+
+If you want to get in touch with me you can [email me](mailto:jamie@jamiedavies.me), or find me on [GitHub](https://github.com/daviesjamie), [Keybase](https://keybase.io/daviesjamie), [LinkedIn](https://www.linkedin.com/in/daviesjamie/) or [Stack Overflow](http://stackoverflow.com/users/1398245/jamie).
+
 ## This site
 
 This website has been my little corner of the internet since 2012. Over the
