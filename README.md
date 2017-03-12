@@ -5,7 +5,7 @@
 This is the source for [jamiedavies.me](https://jamiedavies.me).
 
 It is generated using [jekyll](https://jekyllrb.com/), using
-a slightly-modified version of my [jekyll-bland](daviesjamie/jekyll-bland)
+a slightly-modified version of my [jekyll-bland](https://github.com/daviesjamie/jekyll-bland)
 theme.
 
 The font used is [Calendas Plus](http://atipofoundry.com/fonts/calendas-plus).
