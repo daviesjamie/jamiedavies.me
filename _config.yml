@@ -8,6 +8,9 @@ baseurl: ""
 url: ""
 permalink: "/:year/:title/"
 
+# Date format
+listing_date_format: "%B %Y"
+
 # Where post media is stored (images, downloads, etc)
 media_path: "/media"
 
