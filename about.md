@@ -6,7 +6,7 @@ permalink: /about/
 Hi, I'm Jamie.
 
 I'm a recent MEng Computer Science graduate from the [University of
-Southampton](http://www.southampton.ac.uk/), and I now work for
+Southampton](http://www.ecs.soton.ac.uk/), and I now work for
 [Netcraft](https://www.netcraft.com/) in the lovely city of Bath.
 
 My technical interests are quite mixed --- whilst I think it's important to
