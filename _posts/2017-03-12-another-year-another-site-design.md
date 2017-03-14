@@ -6,7 +6,7 @@ tags: jekyll meta
 
 Well, I’ve redesigned the site again. Whoops.
 
-Usually about once a year, I get a deep urge to completely rewrite this site from the ground up. Sometimes it’s because I’ve seen a pretty design elsewhere on the internet that I want to attempt mimic, or sometimes it’s because I want to try out a new tool to generate the content. Sometimes I can’t even explain why. It’s because of this that [jamiedavies.me](https://jamiedavies.me) has undergone [so](http://web.archive.org/web/20130704225000/http://jamiedavies.me/) [many](http://web.archive.org/web/20140517174051/http://jamiedavies.me/) [changes](http://web.archive.org/web/20150801155227/http://jamiedavies.me/) over the years.
+Usually about once a year, I get a deep urge to completely rewrite this site from the ground up. Sometimes it’s because I’ve seen a pretty design elsewhere on the internet that I want to attempt to mimic, or sometimes it’s because I want to try out a new tool to generate the content. Sometimes I can’t even explain why. It’s because of this that [jamiedavies.me](https://jamiedavies.me) has undergone [so](http://web.archive.org/web/20130704225000/http://jamiedavies.me/) [many](http://web.archive.org/web/20140517174051/http://jamiedavies.me/) [changes](http://web.archive.org/web/20150801155227/http://jamiedavies.me/) over the years.
 
 Frankly, this needs to stop.
 
