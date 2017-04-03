@@ -24,7 +24,7 @@ I created it with several of my friends --- [Hayden](https://eskriett.com),
 [Will](https://www.linkedin.com/in/william-buss-b752a176),
 [Jack](https://www.linkedin.com/in/jack-flann-bb017aa6) and
 [Simon](https://www.linkedin.com/in/simonbidwell) --- as a group coursework
-entry for a 'scripting languages' module at university.
+entry for a "scripting languages" module at university.
 
 The specification for the coursework pitted teams of students against each
 other, in a bid to win a contract from a (sadly, fictional) company. The teams

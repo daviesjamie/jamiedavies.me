@@ -13,7 +13,7 @@ Sets](http://en.wikipedia.org/wiki/Julia_set).
 
 {% figure caption:"A zoomed in view of the Mandelbrot Set (left), with a Julia
 Set corresponding to a chosen point (right)."
-%} ![Fractal Explorer]({% include media name='fractal.png'%})
+%} ![Fractal Explorer]({% include media name='fractal.png' %})
 {% endfigure %}
 
 This coursework was great fun, and I regard it as one of the most enjoyable
