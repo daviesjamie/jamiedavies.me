@@ -5,7 +5,7 @@ description: >
 
 # URL format
 baseurl: ""
-url: ""
+url: "https://jamiedavies.me"
 permalink: "/:year/:title/"
 
 # Date format

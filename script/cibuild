@@ -3,7 +3,7 @@
 set -e
 
 echo "Building the site..."
-bundle exec jekyll build
+bundle exec jekyll build --config _config.yml,_config_dev.yml
 
 echo "Testing the site with HTMLProofer..."
 bundle exec htmlproofer ./_site --check-favicon --check-html --only-4xx
