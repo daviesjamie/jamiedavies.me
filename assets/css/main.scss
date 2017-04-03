@@ -6,6 +6,9 @@
 @import "calendas-plus";
 $font-main: "Calendas Plus", Georgia, Cambria, "Times New Roman", Times, serif;
 
+// Use a slightly darker "theme" colour (used for `inline code`)
+$color-theme: #2aa198;
+
 // Import the bland theme styles
 @import "bland";
 
