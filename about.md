@@ -34,6 +34,10 @@ If you want to get in touch with me you can
 [LinkedIn](https://www.linkedin.com/in/daviesjamie/) or
 [Stack Overflow](http://stackoverflow.com/users/1398245/jamie).
 
+You can also [download a copy of my
+CV](https://github.com/daviesjamie/curriculum-vitae/raw/master/cv.pdf), if you
+feel like it.
+
 ## This site
 
 This website has been my little corner of the internet since 2012. Over the
