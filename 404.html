@@ -1,0 +1,26 @@
+---
+title: 404
+permalink: /404.html
+nav_exclude: true
+hide_title: true
+---
+
+<h1><span class="lnums">404</span>: Not Found</h1>
+
+<p>This isn't the page you're looking for.</p>
+
+<hr>
+
+<div class="listing">
+  <p>Why not try one of these recent posts instead?</p>
+
+  {% assign date_format = site.listing_date_format | default:site.date_format | default:"%-d %B %Y" %}
+  {% for post in site.posts limit:3 %}
+    <div class="listing-item">
+      <span class="listing-date">{{ post.date | date:date_format }}</span>
+      <a class="listing-title" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </div>
+  {% endfor %}
+</div>
