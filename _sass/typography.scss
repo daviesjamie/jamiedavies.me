@@ -37,3 +37,13 @@ sub {
       -ms-font-feature-settings: "subs" 1;
           font-feature-settings: "subs" 1;
 }
+
+// Reset default tag count settings as superscript font now handles it
+.tag .count {
+  font-size: inherit;
+  vertical-align: baseline;
+}
+
+.tag-list li {
+  line-height: 2.2em;
+}
