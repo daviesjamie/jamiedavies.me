@@ -38,12 +38,15 @@ sub {
           font-feature-settings: "subs" 1;
 }
 
-// Reset default tag count settings as superscript font now handles it
+// Reset other super/sub -script settings, as the font now natively handles it
+sup,
+sub,
 .tag .count {
   font-size: inherit;
   vertical-align: baseline;
 }
 
+// Adjust space between lines of tags
 .tag-list li {
   line-height: 2.2em;
 }
