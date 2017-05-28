@@ -46,6 +46,25 @@ sub,
   vertical-align: baseline;
 }
 
+// Make the line in strikethroughs prettier
+del,
+s,
+strike {
+  position: relative;
+  text-decoration: none;
+}
+
+del::after,
+s::after,
+strike::after {
+  border-bottom: 0.1em solid $color-text;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 60%;
+}
+
 // Adjust space between lines of tags
 .tag-list li {
   line-height: 2.2em;
