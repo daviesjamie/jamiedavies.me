@@ -14,8 +14,8 @@ choose the right tools for job, I'm often guilty of wanting to try out the
 latest trendy development tools and libraries. I tend to use Perl and Python on
 a day-to-day basis, but I've been known to make things in a bunch of other
 languages including C/C++, Java, Ruby and Javascript. I do almost all of my
-development (and many other things too) on the command-line; `vim`, `tmux` and
-`zsh` are three of my favourite things.
+development (and many other things too) on the command-line; `vim`, `tmux`
+and `zsh` are where I feel most at home.
 
 When I'm not in front of a computer, you can often find me in my kitchen
 cooking, baking or eating anything that has caught the attention of my inner
