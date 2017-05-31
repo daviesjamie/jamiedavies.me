@@ -8,7 +8,7 @@ Around the time that my 3<sup>rd</sup> year at University was wrapping up, when 
 
 ...That, or I just decided to procrastinate and have fun making something useful instead of revising for those exams. You decide.
 
-Either way, I started envisioning a tool that would help me better organise my work. It could store todo lists in plain-text, allowing me to easily access them from the command-line (for those who don't know, I'm a bit of a Vim nut). It could maintain separate todo list files, one for each separate area of my studies I wanted to organise. It could automatically find which todo list to use, based on the current directory...
+Either way, I started envisioning a tool that would help me better organise my work. It could store todo lists in plain-text, allowing me to easily access them from the command-line. It could maintain separate todo list files, one for each separate area of my studies I wanted to organise. It could automatically find which todo list to use, based on the current directory...
 
 And so I created [Todor](https://github.com/daviesjamie/todor).
 
