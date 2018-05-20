@@ -6,7 +6,6 @@ gem "jekyll-bland"
 
 group :jekyll_plugins do
    gem "jekyll-feed"
-   gem "jekyll-figure"
    gem "jekyll-sitemap"
 end
 
