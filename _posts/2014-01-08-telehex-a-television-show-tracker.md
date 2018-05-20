@@ -35,5 +35,3 @@ It turned out that our fictional clients loved the concept of Telehex and we wer
 * * *
 
 Telehex is still running at <http://telehex3001.appspot.com>, where it remains almost entirely untouched since it was submitted.
-
-The code for Telehex can be found at <https://github.com/eskriett/telehex>.
