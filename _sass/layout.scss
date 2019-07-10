@@ -1,0 +1,10 @@
+.avatar {
+  border-radius: 100%;
+  height: 140px;
+  width: 140px;
+
+  @media (min-width: $screen-small) {
+    float: right;
+    margin: 0 1rem;
+  }
+}

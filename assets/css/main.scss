@@ -12,5 +12,6 @@ $color-theme: #2aa198;
 // Import the bland theme styles
 @import "bland";
 
-// Import some extra typography styles
+// Import some extra styles
+@import "layout";
 @import "typography";

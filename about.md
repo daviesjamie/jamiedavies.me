@@ -3,6 +3,8 @@ title: About
 permalink: /about/
 ---
 
+{% include avatar.html %}
+
 Hi, I'm Jamie.
 
 I'm a recent MEng Computer Science graduate from the [University of Southampton](http://www.ecs.soton.ac.uk/), and I now work for [Netcraft](https://www.netcraft.com/) in the lovely city of Bath.
