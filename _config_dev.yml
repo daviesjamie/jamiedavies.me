@@ -1,4 +1,0 @@
-# We don't want to use jamiedavies.me as the URL when we're in a dev
-# environment
-# If left blank, defaults to localhost
-url: ""
