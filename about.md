@@ -7,7 +7,7 @@ permalink: /about/
 
 Hi, I'm Jamie.
 
-I'm a recent MEng Computer Science graduate from the [University of Southampton](http://www.ecs.soton.ac.uk/), and I now work for [Netcraft](https://www.netcraft.com/) in the lovely city of Bath.
+I'm an MEng Computer Science graduate from the [University of Southampton](http://www.ecs.soton.ac.uk/), and I work for [Netcraft](https://www.netcraft.com/) in the lovely city of Bath.
 
 My technical interests are quite mixed --- whilst I think it's important to choose the right tools for job, I'm often guilty of wanting to try out the latest trendy development tools and libraries. I tend to use Perl and Python on a day-to-day basis, but I've been known to make things in a bunch of other languages including C/C++, Java, Ruby and Javascript. I do almost all of my development (and many other things too) on the command-line; `vim`, `tmux` and `zsh` are where I feel most at home.
 
